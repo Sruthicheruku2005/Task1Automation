@@ -1,0 +1,3 @@
+a.txt moved to Text as text_1.txt
+b.jpg moved to Images as image_1.jpg
+c.pdf moved to PDF as pdf_1.pdf
